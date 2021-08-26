@@ -15,9 +15,7 @@ class Homepage extends StatelessWidget {
           child: Text("welcome to my project"),
         ),
       ),
-      drawer: MyDrawer(
-
-      ),
+      drawer: MyDrawer(),
     );
   }
 }
