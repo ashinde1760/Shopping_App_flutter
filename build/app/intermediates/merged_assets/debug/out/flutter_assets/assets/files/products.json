@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "Mobile",
+            "description": "Lenovo k8 Note",
+            "image": "https://5.imimg.com/data5/RP/QP/GLADMIN-52197454/lenovo-k8-note-mobile-phone-500x500.png",
+            "price": 15000,
+            "quantity": 1
+        },
+        {
+            "id": 1,
+            "productName": "Laptop",
+            "description": "Lenovo Thinkpad L570",
+            "image": "https://i2.wp.com/laptopmedia.com/wp-content/uploads/2017/10/DSC02689.jpg",
+            "price": 45000,
+            "quantity": 1
+        },
+        {
+            "id": 3,
+            "productName": "Charger",
+            "description": "Lenovo Laptop Charger 90W Slim tip AC Power Adapter(Power Supply) with 3 Prong Power Cord for Lenovo ThinkPad Yoga 260 370,T470 T450s T460s T440s T450 E570 X1 Carbon, X1 Yoga 3rd",
+            "image": "https://m.media-amazon.com/images/I/71oAS0RtlpL._AC_SY450_.jpg",
+            "price": 3500,
+            "quantity": 1
+        },
+        {
+            "id": 4,
+            "productName": "AC",
+            "description": "Samsung 1.5 Ton 5 Star 5-in-1 Convertible AR18AY5YATZ Inverter Split AC",
+            "image": "https://www.reliancedigital.in/medias/Samsung-AR18AY5YATZ-Air-Conditioners-581110131-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTQ2OTJ8aW1hZ2UvanBlZ3xpbWFnZXMvaGFmL2gyMy85NDg2MjcxNTQ1Mzc0LmpwZ3xiZTJiZGQ4MmM5NGUyYzM4ZmU2OTk4MjE3NmFhZGYwYzBkMDA3ZjJmMDAwMDA0OTVjNWFiOWM3NTYwYWQ4MTQ2",
+            "price": 3000,
+            "quantity": 1
+        },
+        {
+            "id": 5,
+            "productName": "Fridge",
+            "description": "LG 260 L 3 Star Smart Inverter Frost Free single Door Refrigerator (GL-I292RPZL, Shiny Steel, With Ice Beam Door Cooling)",
+            "image": "https://www.lg.com/in/images/refrigerators/md07529520/thumbnail/GL-B191KSPX-Refrigerators-Left-View-350-5.jpg",
+            "price": 20000,
+            "quantity": 1
+        },
+        {
+            "id": 6,
+            "productName": "TV",
+            "description": "Samsung Series 4 T4500 80 cm (32 inch) HD Ready LED Smart TV (UA32T4500AKXXL, Black)",
+            "image": "https://media.croma.com/image/upload/f_auto,q_auto,d_Croma%20Assets:no-product-image.jpg,h_350,w_350/v1605339154/Croma%20Assets/Entertainment/Television/Images/8942487994398.png",
+            "price": 13000,
+            "quantity": 1
+        },
+        {
+            "id": 7,
+            "productName": "Washing Machine",
+            "description": "9.0Kg, AI Direct Drive™ Washer with Steam™ & TurboWash™",
+            "image": "https://www.lg.com/in/images/washing-machines/md07518521/gallery/FHV1409ZWB-Washing-Machines-Front-View-DZ-01V.jpg",
+            "price": 35000,
+            "quantity": 1
+        },
+        {
+            "id": 8,
+            "productName": "Bluetooth Headphones",
+            "description": "boAt Rockerz 335 Bluetooth Headset  (Bold Blue, In the Ear)",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kpodocw0/headphone/l/k/x/rockerz-335-boat-original-imag3uwmdgecyx7z.jpeg?q=70",
+            "price": 1500,
+            "quantity": 1
+        },
+        {
+            "id": 9,
+            "productName": "Watch",
+            "description": "Wrist Watch",
+            "image": "https://i.gadgets360cdn.com/products/large/realme-watch-670x800-1590388807.jpg",
+            "price": 500,
+            "quantity": 1
+        },
+        {
+            "id": 10,
+            "productName": "Table",
+            "description": "ARSTORE ARSTORE Foldable Laptop Table, Portable Laptop Bed Tray Table Folding Dormitory Table Notebook Stand Reading Holder Breakfast Serving Bed Tray with Tablet Slots Plate Kitchen Rack  (Wood)",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kfu0h3k0/portable-laptop-table/e/6/h/mfb-melamine-fiberboard-lpt663-rj-black-original-imafw7avgyf9dgkf.jpeg?q=70",
+            "price": 15000,
+            "quantity": 1
+        }
+    ]
+}
