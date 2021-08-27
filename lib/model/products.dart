@@ -31,14 +31,5 @@ class Product {
 }
 
 class ProductModel {
-  static List<Product> products = [
-    Product(
-        id: 1,
-        productName: "Mobile",
-        description: "Lenovo k8 Note",
-        image:
-            "https://5.imimg.com/data5/RP/QP/GLADMIN-52197454/lenovo-k8-note-mobile-phone-500x500.png",
-        price: 15000,
-        quantity: 1)
-  ];
+  static List<Product> products = [];
 }

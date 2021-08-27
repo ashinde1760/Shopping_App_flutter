@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shopping/pages/Login.dart';
 import 'package:shopping/pages/homepage.dart';
+import 'package:shopping/pages/product_details.dart';
 import 'package:shopping/utils/routes.dart';
 import 'package:shopping/widgets/themes.dart';
 
@@ -19,7 +20,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       routes: {
         MyRoutes.login: (context) => Login(),
-        MyRoutes.home: (context) => Homepage()
+        MyRoutes.home: (context) => Homepage(),
+//        MyRoutes.productDetails: (context) => ProductDetailsPage(),
       },
     );
   }

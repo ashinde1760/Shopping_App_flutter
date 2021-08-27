@@ -11,4 +11,7 @@ class MyThemes {
         iconTheme: IconThemeData(color: Colors.black),
         textTheme: Theme.of(context).textTheme,
       ));
+
+  static Color creamColor = Color(0xfff5f5f5);
+  static Color darkBluishColor = Color(0xff403b58);
 }
